@@ -1,3 +1,4 @@
+// O(n) Time where n is the number of competitions | O(k) Space where k is the number of teams
 function tournamentWinner(competition, results) {
     let winner = '';
     let score = {[winner] : 0};
