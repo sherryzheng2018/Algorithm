@@ -1,4 +1,3 @@
-// O(v + m) Time | O(v) Space 
 class Node {
     constructor(name) {
       this.name = name;
